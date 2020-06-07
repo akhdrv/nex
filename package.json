@@ -1,0 +1,14 @@
+{
+    "name": "nexpress",
+    "version": "0.0.0",
+    "description": "Express-compatible Web Server with Native Kernel",
+    "license": "MIT",
+    "gypfile": true,
+    "main": "./build/Release/nexpress",
+    "dependencies": {
+        "cmake-js": "6.1.0",
+        "jest": "25.4.0",
+        "nan": "2.14.1",
+        "path-to-regexp": "6.1.0"
+    }
+}
