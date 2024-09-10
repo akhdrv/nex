@@ -9,6 +9,6 @@
         "cmake-js": "6.1.0",
         "jest": "25.4.0",
         "nan": "2.14.1",
-        "path-to-regexp": "6.1.0"
+        "path-to-regexp": "8.0.0"
     }
 }
